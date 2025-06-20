@@ -1,11 +1,4 @@
-<table align="center">
-  <tr>
-    <td><h1>Awesome VLMs Safety</h1></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg" alt="Awesome Badge" />
-    </td>
-  </tr>
-</table>
+![Awesome](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat.svg)<h1 align="center">🤗🤗 Awesome VLMs Safety 🤗🤗</h1>
 
 <h1 align="center">This repository is currently under construction.</h1>
 ![awesome](https://github.com/chilljudaoren/A-Survey-of-Adversarial-Attack/blob/main/images/overview.png)
