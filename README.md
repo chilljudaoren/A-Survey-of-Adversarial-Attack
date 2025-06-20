@@ -1,4 +1,4 @@
-# Awesome VLMs Safety [![awesome](https://github.com/your-username/your-repo/blob/main/images/awesome-badge.png?raw=true)](https://github.com/chilljudaoren/A-Survey-of-Adversarial-Attack)
+# Awesome VLMs Safety ![Awesome VLMs Safety]([https://github.com/your-username/your-repo/blob/main/images/awesome-badge.png?raw=true](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat2.svg))
 
 
 <h1 align="center">This repository is currently under construction.</h1>
