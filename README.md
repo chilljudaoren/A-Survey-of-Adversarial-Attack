@@ -1,8 +1,5 @@
-<h1 align="center"># Awesome VLMs Safety</h1>
+# Awesome VLMs Safety ![awesome](https://github.com/your-username/your-repo/blob/main/images/awesome-badge.png?raw=true)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/670f82b1a9b986d47359c514b0422e12dba82670/media/badge-flat.svg" alt="Awesome Badge" />
-</p>
 
 <h1 align="center">This repository is currently under construction.</h1>
 ![awesome](https://github.com/chilljudaoren/A-Survey-of-Adversarial-Attack/blob/main/images/overview.png)
