@@ -1,4 +1,4 @@
-# Awesome VLMs Safety [![awesome](https://github.com/your-username/your-repo/blob/main/images/awesome-badge.png?raw=true)]
+#Awesome VLMs Safety ![awesome](https://github.com/your-username/your-repo/blob/main/images/awesome-badge.png?raw=true)
 
 
 <h1 align="center">This repository is currently under construction.</h1>
