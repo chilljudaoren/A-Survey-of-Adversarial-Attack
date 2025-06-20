@@ -1,4 +1,4 @@
-# Awesome VLMs Safety
+<h1 align="center"># Awesome VLMs Safety</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/awesome/670f82b1a9b986d47359c514b0422e12dba82670/media/badge-flat.svg" alt="Awesome Badge" />
