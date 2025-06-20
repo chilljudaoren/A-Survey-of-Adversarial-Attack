@@ -1,4 +1,4 @@
-# Awesome VLMs Safety ![Awesome](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat2.svg)
+<h1 align="center">Awesome VLMs Safety ![Awesome](https://github.com/sindresorhus/awesome/blob/main/media/badge-flat2.svg)</h1>
 
 
 <h1 align="center">This repository is currently under construction.</h1>
