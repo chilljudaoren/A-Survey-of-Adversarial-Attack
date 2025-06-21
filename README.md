@@ -7,7 +7,7 @@
     <a href="https://github.com/XuankunRong/Awesome-LVLM-Safety"><img src="https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social" alt="GitHub stars"></a>
 </p>
 
-This repository is currently under construction.
+⚠️ **This repository is currently under construction.**
 
 ![awesome](https://github.com/chilljudaoren/A-Survey-of-Adversarial-Attack/blob/main/images/overview.png)
 This is the repository of <b><q>Adversarial Attacks on Vision-Language Multimodal Systems: A Survey</q></b>, a systematic survey of VLM adversarial attack studies in various adversarial attacks including Adversarial Jailbreak Attack, Adversarail Prompt Attack, Knowledge-based Adversarial Attack, etc. For details, please refer to:
@@ -17,6 +17,11 @@ This is the repository of <b><q>Adversarial Attacks on Vision-Language Multimoda
 With the boom of artificial intelligence, multimodal deep learning, especially vision-language multimodal systems (VLMS), has advanced remarkably and found wide applications. However, their adversarial security issues hamper further development. This paper comprehensively reviews adversarial attacks on VLMS. It first details multimodal deep-learning key technologies and the features of relevant models. Then, it deeply analyzes the adversarial vulnerabilities of VLMS. Next, it systematically reviews various adversarial attack methods in multimodal systems, covering task-specific attacks and attacks on different models, with a detailed analysis of their principles, implementations, and effects. Finally, it looks ahead to the future of multimodal adversarial attacks, suggesting research directions like improving attack universality and black-box attack capabilities. This review offers technical references, promotes research on multimodal adversarial attacks, and helps enhance VLMS security for reliable real-world applications.    
 
 <h2> 📜 Table of Contents </h2>
+
+- [News](#News)
+- [Awesome Papers](#awesome-papers)
+  - [Adversarial Attack on VLP models](#VLP)
+  - [Adversarial Attack on MLLMs](#MLLM)
 
 <h2 id="News"> 🔥 News </h2>
 
@@ -90,15 +95,14 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [CVPR 2025]  Distraction is All You Need for Multimodal Large Language Model Jailbreaking [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Distraction_is_All_You_Need_for_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf)][[Code](https://github.com/TeamPigeonLab/CS-DJ)]
 
 #### Adversarial Prompt Attack
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
-* [ICCV 2023] [[Paper]()][[Code]()]
+* [arXiv 2023] Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs[[Paper](https://arxiv.org/pdf/2307.10490)][[Code](https://github.com/ebagdasa/multimodal_injection)]
+* [arXiv 2023] Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [[Paper](https://arxiv.org/pdf/2311.09127)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/jailbreaking-gpt-4v-via-self-adversarial-attacks-with-system-prompts.md)]
+* [arXiv 2024] Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks [[Paper](https://arxiv.org/pdf/2402.00626)][[Code](https://github.com/mqraitem/Self-Gen-Typo-Attack)]
+
+<h2 id="contact"> 🎉 Contact </h2>
+
+This repository is currently maintained by [Zhihao Chen](https://github.com/chilljudaoren) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [daorenju9911@zust.edu.cn](daorenju9911@zust.edu.cn) 📧, and I will get back to you as soon as possible. Let's keep improving the **A-Survey-of-Adversarial-Attack** community together! 🏁
+
+Looking forward to hearing from you! 😄
+
 
