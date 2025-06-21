@@ -53,9 +53,11 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [arXiv 2024] Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2410.11639)]
 * [AAAI 2024] VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models [[Paper](https://arxiv.org/pdf/2402.11083)][[Code](https://github.com/ericyinyzy/VQAttack)]
 * [ACM MM 2024] A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2407.17797)]
+* [arXiv 2024] Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation [[Paper](https://arxiv.org/pdf/2412.08108)]
 
 <h3 id="MLLM"> 👑 Adversarial Attack on MLLMs </h3>
 
+#### Traditional Adversarial Attack on MLLMs
 * [ICCV 2023] On the adversarial robustness of multi-modal foundation models [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)]
 * [arXiv 2023] InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2312.01886)][[Code](https://github.com/xunguangwang/InstructTA)]
 * [NeurIPS Workshop 2023] How Robust is Google’s Bard to Adversarial Image Attacks? [[Paper](https://arxiv.org/pdf/2309.11751)][[Code](https://github.com/thu-ml/Attack-Bard)]
@@ -69,8 +71,33 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [CVPR 2025] AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models [[Paper](https://arxiv.org/pdf/2410.05346)][[Code](https://github.com/jiamingzhang94/AnyAttack)]
 * [arXiv 2025] Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack [[Paper](https://arxiv.org/pdf/2502.19672?)]
 
-<h3 id="MLLM"> 👑 Adversarial Attack on MLLMs </h3>
+#### Adversarial Jailbreak Attack
+* [NeurIPS 2023] Are aligned neural networks adversarially aligned? [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c1f0b856a35986348ab3414177266f75-Paper-Conference.pdf)][[Code](https://paperswithcode.com/paper/are-aligned-neural-networks-adversarially)]
+* [arXiv 2023] Query-Relevant Images Jailbreak Large Multi-Modal Models[Paper][[Code](https://export.arxiv.org/pdf/2311.17600v1)][(https://github.com/isXinLiu/MM-SafetyBench)]
+* [ICML 2024] White-box Multimodal Jailbreaks Against Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2405.17894)][[Code](https://github.com/roywang021/UMK)]
+* [arXiv 2024] Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt [[Paper](https://arxiv.org/pdf/2406.04031)][[Code](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)]
+* [AAAI 2024] Visual Adversarial Examples Jailbreak Aligned Large Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30150/32038)][[Code](https://github.com/unispac/visual-adversarial-examples-jailbreak-large-language-models)]
+* [arXiv 2024] IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves [[Paper](https://arxiv.org/pdf/2411.00827)][[Code](https://github.com/roywang021/IDEATOR)]
+* [ICLR 2024] JAILBREAK IN PIECES: COMPOSITIONAL ADVERSARIAL ATTACKS ON MULTI-MODAL LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2307.14539)][[Code](https://github.com/erfanshayegani/Jailbreak-In-Pieces)]
+* [ACM MM 2024] White-box multimodal jailbreaks against large vision-language models [[Paper](https://arxiv.org/pdf/2405.17894)][[Code](https://github.com/roywang021/UMK.)]
+* [ECCV 2024] Images are achilles' heel of alignment: Exploiting visual vulnerabilities for jailbreaking multimodal large language models [[Paper](https://arxiv.org/pdf/2403.09792)][[Code](https://github.com/RUCAIBox/HADES)]
+* [ECCV Oral 2024]  Images are achilles’ heel of alignment: Exploiting visual vulnerabilities for jailbreaking multimodal large language models. [[Paper](https://arxiv.org/pdf/2403.09792)][[Code](https://github.com/RUCAIBox/HADES)]
+* [ECCV 2024] MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2311.17600)][[Code](https://github.com/isXinLiu/MM-SafetyBench)]
+* [arXiv 2025] Universal Adversarial Attack on Multimodal Aligned LLMs [[Paper](https://arxiv.org/pdf/2502.07987)]
+* [TCSVT 2025] Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2506.01307?)]
+* [AAAI 2025] FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts [[Paper](https://www.overleaf.com/project/67e268fac5f1645b8a867f1c#cite.gong2023figstep)][[Code](https://github.com/thuccslab/figstep)]
+* [arXiv 2025] Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models [[Paper](https://arxiv.org/abs/2411.18000)]
+* [CVPR 2025]  Distraction is All You Need for Multimodal Large Language Model Jailbreaking [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Distraction_is_All_You_Need_for_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf)][[Code](https://github.com/TeamPigeonLab/CS-DJ)]
 
+#### Adversarial Prompt Attack
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
+* [ICCV 2023] [[Paper]()][[Code]()]
 * [ICCV 2023] [[Paper]()][[Code]()]
 * [ICCV 2023] [[Paper]()][[Code]()]
 * [ICCV 2023] [[Paper]()][[Code]()]
