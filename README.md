@@ -26,31 +26,33 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 
 <h3 id="VLP"> 👑 Adversarial Attack on VLP models </h3>
 
+#### Example-Specific Adversarial Attack on VLP Models
 * [ACM MM 2022] Towards Adversarial Attack on Vision-Language Pre-training
  Models [[Paper](https://arxiv.org/pdf/2206.09391)][[Code](https://github.com/adversarial-for-goodness/Co-Attack)]
 * [NeurIPS 2023] VLATTACK: Multimodal Adversarial Attacks on
  Vision-Language Tasks via Pre-trained Models [[Paper](https://arxiv.org/pdf/2310.04655)][[Code](https://github.com/ericyinyzy/VLAttack)]
 * [ICCV 2023] Set-level Guidance Attack: Boosting Adversarial Transferability of
  Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2307.14061)][[Code](https://github.com/Zoky-2020/SGA)]
-* [ACM MM 2023] AdvCLIP: Downstream-agnostic Adversarial Examples in
- Multimodal Contrastive Learning [[Paper](https://arxiv.org/pdf/2308.07026)][[Code](https://github.com/CGCL-codes/AdvCLIP)]
-* [arXiv 2023] SA-Attack: Improving Adversarial Transferability of
- Vision-Language Pre-training Models via Self-Augmentation [[Paper](https://arxiv.org/pdf/2312.04913)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/sa-attack-improving-adversarial-transferability-of-vision-language-pretraining-models-via-self-au.md)]
+* [arXiv 2023] SA-Attack: Improving Adversarial Transferability of Vision-Language Pre-training Models via Self-Augmentation [[Paper](https://arxiv.org/pdf/2312.04913)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/sa-attack-improving-adversarial-transferability-of-vision-language-pretraining-models-via-self-au.md)]
 * [arXiv 2023] OT-Attack: Enhancing Adversarial Transferability of Vision-Language Models via Optimal Transport Optimization [[Paper](https://arxiv.org/pdf/2312.04403)]
 * [arXiv 2023] Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning [[Paper](https://arxiv.org/pdf/2308.12636)]
-* [arXiv 2023]  Improving Adversarial Transferability of Vision-Language Pre-training Models through Collaborative Multimodal Interaction [[Paper](https://arxiv.org/pdf/2403.10883)]
+* [arXiv 2023] Improving Adversarial Transferability of Vision-Language Pre-training Models through Collaborative Multimodal Interaction [[Paper](https://arxiv.org/pdf/2403.10883)]
 * [SP 2024] Transferable Multimodal Attack on Vision-Language Pre-training Models [[Paper](https://ieeexplore.ieee.org/abstract/document/10646738)][[Code](https://github.com/whdii/TMM)]
 * [ECCV 2024] Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory [[Paper](https://arxiv.org/pdf/2403.12445)][[Code](https://github.com/SensenGao/VLPTransferAttack)]
 * [arXiv 2024] Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack [[Paper](https://arxiv.org/pdf/2411.02669)][[Code](https://github.com/jiaxiaojunQAQ/SA-AET)]
+* [ICLR Workshop 2025] BOOSTING ADVERSARIAL ROBUSTNESS OF VISION LANGUAGE PRE-TRAINING MODELS AGAINST MULTI-MODAL ADVERSARIAL ATTACKS [[Paper](https://openreview.net/pdf?id=9obhyu9csa)]
+* [arXiv 2025] Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment [[Paper](https://arxiv.org/pdf/2505.21494)][[Code](https://github.com/jiaxiaojunQAQ/FOA-Attack)]
+* [arXiv 2025] A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1 [[Paper](https://arxiv.org/pdf/2503.10635?)][[Code](https://github.com/VILA-Lab/M-Attack)]
+
+#### Example-Agnostic Adversarial Attack on VLP Models
+* [ACM MM 2023] AdvCLIP: Downstream-agnostic Adversarial Examples in
+ Multimodal Contrastive Learning [[Paper](https://arxiv.org/pdf/2308.07026)][[Code](https://github.com/CGCL-codes/AdvCLIP)]
 * [ACM MM 2024] Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2408.02980)][[Code](https://github.com/LibertazZ/MUAP)]
 * [SIGIR 2024] Universal Adversarial Perturbations for Vision-Language Pre-trained Models [[Paper](https://arxiv.org/pdf/2405.05524)][[Code](https://github.com/sduzpf/UAP_VLP)]
 * [arXiv 2024] One Perturbation is Enough: On Generating Universal Adversarial Perturbations against Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2406.05491)][[Code](https://github.com/ffhibnese/CPGC_VLP_Universal_Attacks)]
 * [arXiv 2024] Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2410.11639)]
 * [AAAI 2024] VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models [[Paper](https://arxiv.org/pdf/2402.11083)][[Code](https://github.com/ericyinyzy/VQAttack)]
 * [ACM MM 2024] A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models [[Paper](https://arxiv.org/pdf/2407.17797)]
-* [ICLR Workshop 2025] BOOSTING ADVERSARIAL ROBUSTNESS OF VISION LANGUAGE PRE-TRAINING MODELS AGAINST MULTI-MODAL ADVERSARIAL ATTACKS [[Paper](https://openreview.net/pdf?id=9obhyu9csa)]
-* [arXiv 2025] Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment [[Paper](https://arxiv.org/pdf/2505.21494)][[Code](https://github.com/jiaxiaojunQAQ/FOA-Attack)]
-* [arXiv 2025] AFrustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1 [[Paper](https://arxiv.org/pdf/2503.10635?)][[Code](https://github.com/VILA-Lab/M-Attack)]
 
 <h3 id="MLLM"> 👑 Adversarial Attack on MLLMs </h3>
 
@@ -61,7 +63,7 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [NeurIPS 2023] OnEvaluating Adversarial Robustness of Large Vision-Language Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a97b58c4f7551053b0512f92244b0810-Paper-Conference.pdf)][[Code](https://github.com/rain305f/AttackVLM_base)]
 * [ICLR 2024] AN IMAGE IS WORTH 1000 LIES: ADVERSARIAL TRANSFERABILITY ACROSS PROMPTS ON VISION LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2403.09766)][[Code](https://github.com/Haochen-Luo/CroPA)]
 * [ICLR Workshop 2024]  ADVERSARIAL ROBUSTNESS FOR VISUAL GROUNDING OF MULTIMODAL LARGE LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2405.09981)][[Code](https://github.com/KuofengGao/MLLM-Grounding-Robustness)]
-* [CVPR 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_On_the_Robustness_of_Large_Multimodal_Models_Against_Image_Adversarial_CVPR_2024_paper.pdf)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/on-the-robustness-of-large-multimodal-models-against-image-adversarial-attacks.md)]
+* [CVPR 2024] Onthe Robustness of Large Multimodal Models Against Image Adversarial Attacks [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_On_the_Robustness_of_Large_Multimodal_Models_Against_Image_Adversarial_CVPR_2024_paper.pdf)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/on-the-robustness-of-large-multimodal-models-against-image-adversarial-attacks.md)]
 * [COLM 2024] Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning Meets Adversarial Image [[Paper](https://arxiv.org/pdf/2402.14899)][[Code](https://github.com/aiPenguin/StopReasoning)]
 * [TIFS 2024]  Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models [[Paper](https://arxiv.org/pdf/2404.10335)][[Code](https://arxiv.org/pdf/2404.10335)]
 * [CVPR 2025] AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models [[Paper](https://arxiv.org/pdf/2410.05346)][[Code](https://github.com/jiamingzhang94/AnyAttack)]
