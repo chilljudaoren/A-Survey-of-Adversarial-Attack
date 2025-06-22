@@ -21,6 +21,7 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 - [Awesome Papers](#awesome-papers)
   - [Adversarial Attack on VLP models](#VLP)
   - [Adversarial Attack on MLLMs](#MLLM)
+- [Contact](#contact)
 
 <h2 id="News"> 🔥 News </h2>
 
