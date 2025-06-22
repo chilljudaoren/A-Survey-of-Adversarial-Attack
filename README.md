@@ -17,11 +17,11 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 
 <h2> 📜 Table of Contents </h2>
 
-- [News](#News)
-- [Awesome Papers](#awesome-papers)
-  - [Adversarial Attack on VLP models](#VLP)
-  - [Adversarial Attack on MLLMs](#MLLM)
-- [Contact](#contact)
+- [🔥News](#News)
+- [👀Awesome Papers](#awesome-papers)
+  - [👑Adversarial Attack on VLP models](#VLP)
+  - [👑Adversarial Attack on MLLMs](#MLLM)
+- [👉Contact](#contact)
 
 <h2 id="News"> 🔥 News </h2>
 
@@ -100,7 +100,7 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [arXiv 2024] Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks [[Paper](https://arxiv.org/pdf/2402.00626)][[Code](https://github.com/mqraitem/Self-Gen-Typo-Attack)]
 * [ICLR 2024] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2310.04451)][[Code](https://github.com/SheltonLiu-N/AutoDAN)]
 
-<h2 id="contact"> 🎉 Contact </h2>
+<h2 id="contact"> 👉 Contact </h2>
 
 This repository is currently maintained by [Zhihao Chen](https://github.com/chilljudaoren) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [daorenju9911@zust.edu.cn](daorenju9911@zust.edu.cn) 📧, and I will get back to you as soon as possible. Let's keep improving the **A-Survey-of-Adversarial-Attack** community together! 🏁
 
