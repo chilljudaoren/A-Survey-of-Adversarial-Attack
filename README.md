@@ -4,7 +4,6 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
     <img src="https://badges.toozhao.com/badges/01JM4JCV43N3ARA3BC25QSBH0S/blue.svg" alt="Custom Badge" />
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
-    <a href="https://github.com/XuankunRong/Awesome-LVLM-Safety"><img src="https://img.shields.io/github/stars/XuankunRong/Awesome-LVLM-Safety?style=social" alt="GitHub stars"></a>
 </p>
 
 ⚠️ **This repository is currently under construction.**
@@ -98,6 +97,7 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 * [arXiv 2023] Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs[[Paper](https://arxiv.org/pdf/2307.10490)][[Code](https://github.com/ebagdasa/multimodal_injection)]
 * [arXiv 2023] Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [[Paper](https://arxiv.org/pdf/2311.09127)][[Code](https://github.com/NY1024/Foundation-Model-Paper-Notes/blob/master/vlm-attack/jailbreaking-gpt-4v-via-self-adversarial-attacks-with-system-prompts.md)]
 * [arXiv 2024] Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks [[Paper](https://arxiv.org/pdf/2402.00626)][[Code](https://github.com/mqraitem/Self-Gen-Typo-Attack)]
+* [ICLR 2024] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models [[Paper](https://arxiv.org/pdf/2310.04451)][[Code](https://github.com/SheltonLiu-N/AutoDAN)]
 
 <h2 id="contact"> 🎉 Contact </h2>
 
