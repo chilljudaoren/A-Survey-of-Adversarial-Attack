@@ -101,7 +101,7 @@ With the boom of artificial intelligence, multimodal deep learning, especially v
 
 <h2 id="contact"> 👉 Contact </h2>
 
-This repository is currently maintained by [Zhihao Chen](https://github.com/chilljudaoren) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [daorenju9911@zust.edu.cn](daorenju9911@zust.edu.cn) 📧, and I will get back to you as soon as possible. Let's keep improving the **A-Survey-of-Adversarial-Attack** community together! 🏁
+This repository is currently maintained by [Zhihao Chen](https://github.com/chilljudaoren) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [qianyaguan@zust.edu.cn](qianyaguan@zust.edu.cn) 📧, and I will get back to you as soon as possible. Let's keep improving the **A-Survey-of-Adversarial-Attack** community together! 🏁
 
 Looking forward to hearing from you! 😄
 
