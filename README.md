@@ -3,6 +3,7 @@
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
+    <a href="https://dl.acm.org/doi/epdf/10.1145/3871040">[PDF]</a>
 </p>
 
 ⚠️ **This repository is currently under construction......**
